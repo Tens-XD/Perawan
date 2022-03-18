@@ -44,7 +44,7 @@
 
  
 
-* File cloning method [Lattest]
+* File cloning method
 
  
 
@@ -95,7 +95,7 @@
 
  
 
-• rm -rf jsl
+• rm -rf TenX
 
  
 
